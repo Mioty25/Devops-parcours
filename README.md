@@ -1,6 +1,6 @@
 # 🚀 Mon Parcours DevOps
 
-Je suis Mioty25 et je commence mon aventure DevOps !
+Je suis **Mioty25** et je commence mon aventure DevOps !
 
 ## 📅 Progression
 
