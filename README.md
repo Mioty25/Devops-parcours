@@ -32,6 +32,12 @@ Cette ligne a été ajoutée depuis le site web.
 
 Ceci est une modification faite sur la branche dev !
 
+## Modification faite directement sur GitHub
+
+"Modif depuis GitHub"
+
+# Pratique - Modifié sur GitHub
+"Modif ligne 1 sur GitHub"
 
 
 
