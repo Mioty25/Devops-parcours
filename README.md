@@ -14,9 +14,11 @@ Devenir compétent en DevOps étape par étape.
 
 
 
-##Ma premiere modification 
+## Ma premiere modification 
 
 
 
 j ai modifié ce fichier sur mon PC 
 
+## Modification faite directement sur GitHub
+Cette ligne a été ajoutée depuis le site web.
