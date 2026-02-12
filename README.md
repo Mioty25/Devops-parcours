@@ -1,5 +1,7 @@
 <<<<<<< HEAD
+
 # 🚀 Mon Parcours DevOps - GITHUB VERSION
+
 =======
 
 Je suis **Mioty25** et je commence mon aventure DevOps !
@@ -51,4 +53,8 @@ Ceci est un exercice que je fait pour test
 
 
 \# Pratique - Modifié sur PC
+
+
+
+\## 🌿 Modification faite sur la branche feature-test
 
